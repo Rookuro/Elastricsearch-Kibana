@@ -5,17 +5,17 @@
 
 1/ Choix de l'Environnement :
 
-```http
+```shell
   Nous avons décidé d'utiliser Docker pour configurer Elasticsearch
 ```
 
 2/ Créer un réseau Docker pour le cluster
 
-```http
+```shell
 MacBook-Pro:TP-Elasticsearch-Kibana alexis$ docker network create tp-elasticsearch-kibana_esnet
 ```
 
-```http
+```shell
 MacBook-Pro:TP-Elasticsearch-Kibana alexis$ docker network ls
 NETWORK ID     NAME                            DRIVER    SCOPE
 01a43273406f   bridge                          bridge    local
@@ -30,7 +30,7 @@ MacBook-Pro:TP-Elasticsearch-Kibana alexis$
 
 Créer un fichier docker-compose.yml
 
-```http
+```shell
 docker-compose.yml
 ```
 
@@ -38,7 +38,7 @@ docker-compose.yml
 
 Lancer le docker compose
 
-```http
+```shell
 docker-compose up -d
 ```
 
