@@ -113,6 +113,40 @@ curl -X PUT "localhost:9200/test01" -H 'Content-Type: application/json' -d '{
 
 ### Partie 3: Intégration de Kibana
 
+1/ Lister les vols dont le prix moyen est entre 300€ et 450€
+
+<img width="1512" alt="Capture d’écran 2024-05-31 à 12 54 30" src="https://github.com/Rookuro/Elastricsearch-Kibana/assets/91243899/b3099c35-cd4d-49bd-b488-d2908b6df27f">
+
+2/ Lister les vols annulés
+
+<img width="1512" alt="Capture d’écran 2024-05-31 à 12 54 50" src="https://github.com/Rookuro/Elastricsearch-Kibana/assets/91243899/e1f77ebb-4bc4-436f-8e36-fa86837aaa56">
+
+3/ Lister les vols ou il pleut à l'arrivée ou au départ. Les vols avec de la pluie à l'arrivée devront sortir avant les autres.
+
+<img width="1512" alt="Capture d’écran 2024-05-31 à 12 56 14" src="https://github.com/Rookuro/Elastricsearch-Kibana/assets/91243899/49e8c0a3-9531-4191-b062-42567469f863">
+
+4/ Lister les vols partant d'Allemagne et à destination de France
+
+<img width="1512" alt="Capture d’écran 2024-05-31 à 12 56 39" src="https://github.com/Rookuro/Elastricsearch-Kibana/assets/91243899/b4d9b09a-70b7-4b3e-8ef5-c8330a66efad">
+
+5/ Lister les vols ayant eu lieu entre le 1er avril 2024 et le 20 mai 2024
+
+<img width="1512" alt="Capture d’écran 2024-05-31 à 12 57 00" src="https://github.com/Rookuro/Elastricsearch-Kibana/assets/91243899/4818fbbc-986c-4661-ae36-4a9f5711e79e">
+
+### Fait en groupe avec : 
+
+Guillaume PHAM
+Axel SEVENET
+Quentin COLLETA
+VALENTIN CHORRO
+Alexis GIROMAGNY
+
+
+
+
+
+
+
 
 
 
