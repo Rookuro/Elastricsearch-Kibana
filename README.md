@@ -5,9 +5,7 @@
 
 1/ Choix de l'Environnement :
 
-```shell
-  Nous avons décidé d'utiliser Docker pour configurer Elasticsearch
-```
+Nous avons décidé d'utiliser Docker pour configurer Elasticsearch
 
 2/ Créer un réseau Docker pour le cluster
 
