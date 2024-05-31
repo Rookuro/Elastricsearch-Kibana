@@ -136,7 +136,7 @@ curl -X PUT "localhost:9200/test01" -H 'Content-Type: application/json' -d '{
 Guillaume PHAM |
 Axel SEVENET |
 Quentin COLLETA |
-VALENTIN CHORRO |
+VALENTIN CHORRO
 | Alexis GIROMAGNY
 
 
