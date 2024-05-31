@@ -133,11 +133,11 @@ curl -X PUT "localhost:9200/test01" -H 'Content-Type: application/json' -d '{
 
 ### Fait en groupe avec : 
 
-Guillaume PHAM
-Axel SEVENET
-Quentin COLLETA
-VALENTIN CHORRO
-Alexis GIROMAGNY
+Guillaume PHAM |
+Axel SEVENET |
+Quentin COLLETA |
+VALENTIN CHORRO |
+| Alexis GIROMAGNY
 
 
 
